@@ -28,4 +28,4 @@ Source for weather data set: https://www.kaggle.com/datasets/sobhanmoosavi/us-we
 
 Source for flight delay set: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 
-They juypter file that is in the repo is not required for any execution, it is only there as proof of learning as well as 
+They juypter file that is in the repo is not required for any execution, it is only there as proof of learning as well as the code required to do the duel merging of the weather and federal holiday datas with teh flight data.
