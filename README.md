@@ -11,7 +11,10 @@ And to comment the final script to ensure ease of read/grade -ing
 
 This Repo houses the full program that can not be deployed due to the size of the files.
 
-Because Github does not allow for >25MB uploads for the CSVs, i have a onedrive link that is here: You can download the csv files and save them on your local machine.
+Because Github does not allow for >25MB uploads for the CSVs, i have a onedrive link that is here: https://michiganstate-my.sharepoint.com/:f:/g/personal/goderisd_msu_edu/EkGmfvT7RQ5JvsI_nLSY5k0BkeYFIviMVhWDk7wegYhGSA?e=I6PMEx
+
+
+You can download the csv files and save them on your local machine.
 
 The code is set up to run with the datasets 1 directory above where the python script is housed, if you want to change that please remove the .. on the path for the csv prior to running.
 
